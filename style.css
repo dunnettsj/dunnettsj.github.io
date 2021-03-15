@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: hsl(181,52%,17%);
+  color: #fdfbfb;
+  font-family: helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
